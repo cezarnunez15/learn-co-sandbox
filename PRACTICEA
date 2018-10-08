@@ -1,0 +1,5 @@
+.Thick {
+font-weight: bold;
+}
+<span 
+class="thick">I'm thick</span>
